@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm vedant!</h1>
 <h3 align="center">A python devloper who likes to code and contribute on various projects!</h3>
 
-- 🔭 I’m currently working on [Axo bot! (a discord bot)](https://bit.ly/axo-bot)
+- 🔭 I’m currently working on Nothing.
 
 - 🌱 I’m currently learning **ethical hacking, java, and many more things.**
 
-- 🤝 I’m looking for help with [Axo bot! (I need some devlopers)](https://bit.ly/axo-server)
 
 - 👨‍💻 All of my projects are available at [https://github.com/veddnt](https://github.com/veddnt)
 
